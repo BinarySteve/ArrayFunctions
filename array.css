@@ -1,0 +1,16 @@
+#title{
+font-family: "Cinzel";
+text-decoration: underline;
+}
+.line{
+color: #ff2432;
+}
+#nums{
+border-color: #ff2432;
+
+}
+#button, #clear{
+	font-family: "Cinzel";
+	font-size: 15px;
+	box-shadow: -1px -1px 1px 1px #ff2432;
+}
